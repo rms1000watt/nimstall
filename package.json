@@ -1,6 +1,6 @@
 {
   "name": "nimstall",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Wrapper of `npm install`",
   "main": "./lib/index.js",
   "scripts": {
