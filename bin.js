@@ -2,10 +2,18 @@
 
 var nimstall = require('./lib/');
 
-var args = process.argv.slice(1)
+console.log(process.argv)
 
-if (args[0].includes(".js")) {
-	args.shift()
-}
+// Catches development issues
 
-nimstall(args);
+// var args = process.argv.slice(1)
+
+// if (args[0].includes(".js")) {
+// 	args.shift()
+// }
+
+
+console.log(args)
+
+
+// nimstall(args);
