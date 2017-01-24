@@ -1,0 +1,27 @@
+{
+  "name": "nimstall",
+  "version": "1.0.0",
+  "description": "Wrapper of `npm install`",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nimstall": "./bin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rms1000watt/nimstall.git"
+  },
+  "keywords": [
+    "npm install",
+    "npm",
+    "install"
+  ],
+  "author": "Ryan Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rms1000watt/nimstall/issues"
+  },
+  "homepage": "https://github.com/rms1000watt/nimstall#readme"
+}
